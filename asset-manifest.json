@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://mgmanoj90.github.io/csb-jbv7im/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://mgmanoj90.github.io/csb-jbv7im/static/js/main.28a6b4e9.chunk.js",
+    "main.js.map": "https://mgmanoj90.github.io/csb-jbv7im/static/js/main.28a6b4e9.chunk.js.map",
+    "runtime-main.js": "https://mgmanoj90.github.io/csb-jbv7im/static/js/runtime-main.3cffa37d.js",
+    "runtime-main.js.map": "https://mgmanoj90.github.io/csb-jbv7im/static/js/runtime-main.3cffa37d.js.map",
+    "static/js/2.8ae4dc4f.chunk.js": "https://mgmanoj90.github.io/csb-jbv7im/static/js/2.8ae4dc4f.chunk.js",
+    "static/js/2.8ae4dc4f.chunk.js.map": "https://mgmanoj90.github.io/csb-jbv7im/static/js/2.8ae4dc4f.chunk.js.map",
+    "index.html": "https://mgmanoj90.github.io/csb-jbv7im/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://mgmanoj90.github.io/csb-jbv7im/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.8ae4dc4f.chunk.js.LICENSE.txt": "https://mgmanoj90.github.io/csb-jbv7im/static/js/2.8ae4dc4f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3cffa37d.js",
+    "static/js/2.8ae4dc4f.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.28a6b4e9.chunk.js"
+  ]
+}
